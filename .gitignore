@@ -1,0 +1,6 @@
+tinyml_env/
+*.tflite
+files.zip
+__pycache__/
+*.log
+.vscode/
